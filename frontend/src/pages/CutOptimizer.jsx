@@ -1,6 +1,3 @@
-from pathlib import Path
-
-updated_cutoptimizer_code = """
 import React, { useState } from 'react';
 import axios from 'axios';
 import jsPDF from 'jspdf';
